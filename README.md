@@ -2,7 +2,7 @@
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Software Engenieer at [Genesis-tech-tribe.io]([https://github.com/fitnezzio](https://github.com/genesis-tech-tribe))_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Engenieer at [Genesis-tech-tribe.io]([https://github.com/genesis-tech-tribe](https://github.com/genesis-tech-tribe))_ :desert_island:Living in Floripa :brazil:
 
 ### My Tech Stack
 
