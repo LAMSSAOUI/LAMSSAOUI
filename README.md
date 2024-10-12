@@ -1,13 +1,13 @@
 ![IMG_20241012_122704](https://github.com/user-attachments/assets/93b6e88c-ba19-4f3b-9289-15947bd0af30)
 
 
-<h2>👋 &nbsp; Hey there! I'm Abdelali Lamssaoui</h2>
+<h2>👋 &nbsp; Hey there! I'm Full-stack developer</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;I have a Master Degree in Computer science.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
