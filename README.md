@@ -1,7 +1,7 @@
 ![IMG_20241012_122704](https://github.com/user-attachments/assets/93b6e88c-ba19-4f3b-9289-15947bd0af30)
 
 
-<h2>👋 &nbsp; Hey there! I'm Full-stack developer</h2>
+<h2>👋 &nbsp; Hey there! I'm software Engineer</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
